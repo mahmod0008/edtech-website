@@ -1,3 +1,9 @@
 .body-bg{
 background-color: white;
+padding: 0 140px;
+}
+.fc{
+    font-weight: 400;
+    color:#777777;
+    font-size: 18px;
 }
